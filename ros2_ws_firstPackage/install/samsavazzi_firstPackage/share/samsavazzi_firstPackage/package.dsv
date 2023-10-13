@@ -1,0 +1,8 @@
+source;share/samsavazzi_firstPackage/hook/cmake_prefix_path.ps1
+source;share/samsavazzi_firstPackage/hook/cmake_prefix_path.dsv
+source;share/samsavazzi_firstPackage/hook/cmake_prefix_path.sh
+source;share/samsavazzi_firstPackage/local_setup.bash
+source;share/samsavazzi_firstPackage/local_setup.dsv
+source;share/samsavazzi_firstPackage/local_setup.ps1
+source;share/samsavazzi_firstPackage/local_setup.sh
+source;share/samsavazzi_firstPackage/local_setup.zsh

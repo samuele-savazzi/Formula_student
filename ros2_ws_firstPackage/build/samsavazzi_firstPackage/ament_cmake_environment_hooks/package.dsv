@@ -1,0 +1,4 @@
+source;share/samsavazzi_firstPackage/local_setup.bash
+source;share/samsavazzi_firstPackage/local_setup.dsv
+source;share/samsavazzi_firstPackage/local_setup.sh
+source;share/samsavazzi_firstPackage/local_setup.zsh

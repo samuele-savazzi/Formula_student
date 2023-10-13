@@ -1,0 +1,6 @@
+Invoking command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/sam/ros2_ws/src/samsavazzi_firstPackage -DCMAKE_INSTALL_PREFIX=/home/sam/ros2_ws/install/samsavazzi_firstPackage
+Invoked command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/sam/ros2_ws/src/samsavazzi_firstPackage -DCMAKE_INSTALL_PREFIX=/home/sam/ros2_ws/install/samsavazzi_firstPackage
+Invoking command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/sam/ros2_ws/build/samsavazzi_firstPackage -- -j4 -l4
+Invoked command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/sam/ros2_ws/build/samsavazzi_firstPackage -- -j4 -l4
+Invoking command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/sam/ros2_ws/build/samsavazzi_firstPackage
+Invoked command in '/home/sam/ros2_ws/build/samsavazzi_firstPackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/sam/ros2_ws/build/samsavazzi_firstPackage

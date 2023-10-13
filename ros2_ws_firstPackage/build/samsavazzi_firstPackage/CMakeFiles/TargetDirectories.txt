@@ -1,0 +1,10 @@
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/install/strip.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/install/local.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/install.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/list_install_components.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/rebuild_cache.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/edit_cache.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/test.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/first_node.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/samsavazzi_firstPackage_uninstall.dir
+/home/sam/ros2_ws/build/samsavazzi_firstPackage/CMakeFiles/uninstall.dir

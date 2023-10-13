@@ -1,0 +1,16 @@
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/lib/samsavazzi_firstPackage/first_node
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/ament_index/resource_index/package_run_dependencies/samsavazzi_firstPackage
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/ament_index/resource_index/parent_prefix_path/samsavazzi_firstPackage
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/environment/ament_prefix_path.sh
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/environment/ament_prefix_path.dsv
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/environment/path.sh
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/environment/path.dsv
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/local_setup.bash
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/local_setup.sh
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/local_setup.zsh
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/local_setup.dsv
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/package.dsv
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/ament_index/resource_index/packages/samsavazzi_firstPackage
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/cmake/samsavazzi_firstPackageConfig.cmake
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/cmake/samsavazzi_firstPackageConfig-version.cmake
+/home/sam/ros2_ws/install/samsavazzi_firstPackage/share/samsavazzi_firstPackage/package.xml
